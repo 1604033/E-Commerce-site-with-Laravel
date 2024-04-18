@@ -1,0 +1,48 @@
+
+/**
+ * Override CSS's
+ */
+ .bg-body-tertiary{
+    background-color: #02aadd!important;
+ }
+
+.margin-top-20{
+    margin-top: 20px;
+}
+.feature-img{
+    max-height: 200px;
+}
+
+.footer-bottom{
+    padding: 20px;
+    background: #2d979f;
+}
+
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.footer{
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #2F4776;
+    color: white;
+}
+
+.bg-royal-blue {
+    background-color: #2F4776;
+    color: white;
+}
+
+.hidden{
+    display: none;
+}
